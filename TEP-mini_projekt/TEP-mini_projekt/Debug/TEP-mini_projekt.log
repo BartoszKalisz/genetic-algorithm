@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\barte\source\repos\TEP-mini_projekt\TEP-mini_projekt\main.cpp(36,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  TEP-mini_projekt.vcxproj -> C:\Users\barte\source\repos\TEP-mini_projekt\Debug\TEP-mini_projekt.exe
